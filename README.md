@@ -5,9 +5,8 @@ Technical environement:
 Unity3D 
 Vuforia SDK 
 
-![alt text](https://github.com/ghodhbane/Augmented_Reality_app/demo_pic/Screenshot_4.png)
+[[https://github.com/ghodhbane/Augmented_Reality_app/demo_pic/Screenshot_4.png|alt=octocat]]
+[[https://github.com/ghodhbane/Augmented_Reality_app/demo_pic/Screenshot_5.png|alt=octocat]]
+[[https://github.com/ghodhbane/Augmented_Reality_app/demo_pic/Screenshot_7.png|alt=octocat]]
 
-![alt text](https://github.com/ghodhbane/Augmented_Reality_app/demo_pic/Screenshot_5.png)
-
-![alt text](https://github.com/ghodhbane/Augmented_Reality_app/demo_pic/Screenshot_7.png)
 
