@@ -7,7 +7,7 @@ Vuforia SDK
 <br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/4239182/55562629-a31b6000-56f4-11e9-8da1-4de696943481.png"> 
+  <img src="https://user-images.githubusercontent.com/4239182/55563973-33f33b00-56f7-11e9-8535-a0b007632542.png"> 
 </p>
 
 <br />
